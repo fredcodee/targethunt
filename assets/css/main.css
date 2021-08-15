@@ -2096,10 +2096,10 @@ input, select, textarea {
 		position: relative;
 		padding: 4em 0 2em 0;
 		background-image: url("images/header.svg");
-		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #363a6d 15%, #2a2738 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #363a6d 15%, #2a2738 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #363a6d 15%, #2a2738 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #363a6d 15%, #2a2738 55%);
 		background-color: #f08c89;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
@@ -2296,14 +2296,14 @@ input, select, textarea {
 		}
 
 		#hero p {
-			font-size: 1.5em;
+			font-size: 1.2em;
 			line-height: 1.5em;
 		}
 
 		#hero .button {
 			background: #fff;
 			border-color: rgba(255, 255, 255, 0);
-			color: #f08c89;
+			color: black;
 			font-size: 1.25em;
 		}
 
